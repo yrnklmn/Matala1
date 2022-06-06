@@ -1,4 +1,4 @@
 # DEMO
 
-some description...! /n
+some description...!
 try something
